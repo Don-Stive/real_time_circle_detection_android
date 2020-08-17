@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Circle-CircleDetection.iml" filepath="$PROJECT_DIR$/.idea/modules/Circle-CircleDetection.iml" group="CircleDetection" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CircleDetection/Circle-CircleDetection-CircleDetection.iml" filepath="$PROJECT_DIR$/.idea/modules/CircleDetection/Circle-CircleDetection-CircleDetection.iml" group="CircleDetection/CircleDetection" />
       <module fileurl="file://$PROJECT_DIR$/CircleDetection.iml" filepath="$PROJECT_DIR$/CircleDetection.iml" />
       <module fileurl="file://$PROJECT_DIR$/CircleDetection/CircleDetection-CircleDetection.iml" filepath="$PROJECT_DIR$/CircleDetection/CircleDetection-CircleDetection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary310/CircleDetection-openCVLibrary310.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary310/CircleDetection-openCVLibrary310.iml" group="CircleDetection/openCVLibrary310" />
       <module fileurl="file://$PROJECT_DIR$/openCVLibrary310/openCVLibrary310.iml" filepath="$PROJECT_DIR$/openCVLibrary310/openCVLibrary310.iml" />
     </modules>
   </component>
